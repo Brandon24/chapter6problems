@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers2.cs", "Numbers2.cs\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InchesToFeet.cs", "InchesToFeet.cs\InchesToFeet.cs.csproj", "{175EDD40-D3BB-4738-A87C-6DABCD765E8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InchesToYards.cs", "InchesToYards.cs\InchesToYards.cs.csproj", "{F9EFB24F-7A99-4901-AADF-59A730869B0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,6 +33,10 @@ Global
 		{175EDD40-D3BB-4738-A87C-6DABCD765E8C}.Debug|x86.Build.0 = Debug|x86
 		{175EDD40-D3BB-4738-A87C-6DABCD765E8C}.Release|x86.ActiveCfg = Release|x86
 		{175EDD40-D3BB-4738-A87C-6DABCD765E8C}.Release|x86.Build.0 = Release|x86
+		{F9EFB24F-7A99-4901-AADF-59A730869B0D}.Debug|x86.ActiveCfg = Debug|x86
+		{F9EFB24F-7A99-4901-AADF-59A730869B0D}.Debug|x86.Build.0 = Debug|x86
+		{F9EFB24F-7A99-4901-AADF-59A730869B0D}.Release|x86.ActiveCfg = Release|x86
+		{F9EFB24F-7A99-4901-AADF-59A730869B0D}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
