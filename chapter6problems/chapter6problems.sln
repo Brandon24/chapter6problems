@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InchesToFeet.cs", "InchesTo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InchesToYards.cs", "InchesToYards.cs\InchesToYards.cs.csproj", "{F9EFB24F-7A99-4901-AADF-59A730869B0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monogram.cs", "Monogram.cs\Monogram.cs.csproj", "{E73BC025-65FC-49C1-83DA-57D211F22FA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -37,6 +39,10 @@ Global
 		{F9EFB24F-7A99-4901-AADF-59A730869B0D}.Debug|x86.Build.0 = Debug|x86
 		{F9EFB24F-7A99-4901-AADF-59A730869B0D}.Release|x86.ActiveCfg = Release|x86
 		{F9EFB24F-7A99-4901-AADF-59A730869B0D}.Release|x86.Build.0 = Release|x86
+		{E73BC025-65FC-49C1-83DA-57D211F22FA7}.Debug|x86.ActiveCfg = Debug|x86
+		{E73BC025-65FC-49C1-83DA-57D211F22FA7}.Debug|x86.Build.0 = Debug|x86
+		{E73BC025-65FC-49C1-83DA-57D211F22FA7}.Release|x86.ActiveCfg = Release|x86
+		{E73BC025-65FC-49C1-83DA-57D211F22FA7}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

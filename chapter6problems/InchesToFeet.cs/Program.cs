@@ -16,7 +16,7 @@ namespace InchesToFeet.cs
         }
         static void Main(string[] args)
         {
-            int inches = 67;
+            int inches = 15;
             totalFeet(inches);
         }
     }
